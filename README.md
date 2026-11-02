@@ -1,0 +1,2 @@
+# Logic-Guided-Time-Series-Synthesizer-using-Hybrid-GAN-Framework
+Time-series data plays a crucial role in various domains such as finance, healthcare, and climate analysis. Generating realistic synthetic time-series data is important for data augmentation, privacy preservation, and simulation tasks. Traditional Generative Adversarial Networks (GANs) focus on distinguishing entire sequences as real or fake.
